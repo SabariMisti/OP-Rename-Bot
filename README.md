@@ -37,9 +37,9 @@ Easy to Deploy to Heroku.
 
 Press Below Button to Deploy!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/OP-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
 
-#### Thanks to [subinps](https://github.com/subinps) for helping
+#### Thanks to [subinps](https://github.com/subinps) for helpinghttps://github.com/SabariMisti/OP-Rename-Bot)
 #### Inspired from [@HK_Rename_Bot](https://t.me/HK_Rename_Bot) & [@AHToolsBot](https://t.me/AHToolsBot)
 
 ### Follow on:
